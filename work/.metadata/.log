@@ -1,0 +1,1533 @@
+!SESSION 2018-11-25 02:53:38.976 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.committers.product -product org.eclipse.epp.package.committers.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.committers.product -data C:\Users\Administrator\Desktop\ever\work -product org.eclipse.epp.package.committers.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-25 02:54:01.715
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-25 03:02:45.574 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.committers.product -product org.eclipse.epp.package.committers.product -product org.eclipse.epp.package.committers.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.committers.product -product org.eclipse.epp.package.committers.product -data file:/C:/Users/Administrator/Desktop/ever/work/ -product org.eclipse.epp.package.committers.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-25 03:03:09.768
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.python.pydev.shared_core 1 1 2018-11-25 03:05:01.252
+!MESSAGE - Ok, file is non-null. Getting info on:C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe
+- Beggining task:Getting libs totalWork:100
+- Setting task name:Mounting executable string...
+- Setting task name:Executing:  C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making pythonpath environment... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making exec... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Reading output...
+- Setting task name:Waiting for process to finish.
+- Setting task name:Process finished.
+- Success getting the info. Result:<xml>
+<name>python</name>
+<version>3.7</version>
+<executable>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe</executable>
+<lib>C:\Users\Administrator\Desktop\ever\py</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\DLLs</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib\site-packages</lib>
+<forced_lib>Image</forced_lib>
+<forced_lib>OpenGL</forced_lib>
+<forced_lib>_abc</forced_lib>
+<forced_lib>_ast</forced_lib>
+<forced_lib>_bisect</forced_lib>
+<forced_lib>_blake2</forced_lib>
+<forced_lib>_bytesio</forced_lib>
+<forced_lib>_codecs</forced_lib>
+<forced_lib>_codecs_cn</forced_lib>
+<forced_lib>_codecs_hk</forced_lib>
+<forced_lib>_codecs_iso2022</forced_lib>
+<forced_lib>_codecs_jp</forced_lib>
+<forced_lib>_codecs_kr</forced_lib>
+<forced_lib>_codecs_tw</forced_lib>
+<forced_lib>_collections</forced_lib>
+<forced_lib>_csv</forced_lib>
+<forced_lib>_datetime</forced_lib>
+<forced_lib>_fileio</forced_lib>
+<forced_lib>_functools</forced_lib>
+<forced_lib>_heapq</forced_lib>
+<forced_lib>_hotshot</forced_lib>
+<forced_lib>_imp</forced_lib>
+<forced_lib>_io</forced_lib>
+<forced_lib>_json</forced_lib>
+<forced_lib>_locale</forced_lib>
+<forced_lib>_lsprof</forced_lib>
+<forced_lib>_md5</forced_lib>
+<forced_lib>_multibytecodec</forced_lib>
+<forced_lib>_opcode</forced_lib>
+<forced_lib>_operator</forced_lib>
+<forced_lib>_pickle</forced_lib>
+<forced_lib>_random</forced_lib>
+<forced_lib>_sha</forced_lib>
+<forced_lib>_sha1</forced_lib>
+<forced_lib>_sha256</forced_lib>
+<forced_lib>_sha3</forced_lib>
+<forced_lib>_sha512</forced_lib>
+<forced_lib>_signal</forced_lib>
+<forced_lib>_sre</forced_lib>
+<forced_lib>_stat</forced_lib>
+<forced_lib>_string</forced_lib>
+<forced_lib>_struct</forced_lib>
+<forced_lib>_subprocess</forced_lib>
+<forced_lib>_symtable</forced_lib>
+<forced_lib>_thread</forced_lib>
+<forced_lib>_tracemalloc</forced_lib>
+<forced_lib>_warnings</forced_lib>
+<forced_lib>_weakref</forced_lib>
+<forced_lib>_winapi</forced_lib>
+<forced_lib>_winreg</forced_lib>
+<forced_lib>array</forced_lib>
+<forced_lib>atexit</forced_lib>
+<forced_lib>audioop</forced_lib>
+<forced_lib>binascii</forced_lib>
+<forced_lib>builtins</forced_lib>
+<forced_lib>cPickle</forced_lib>
+<forced_lib>cStringIO</forced_lib>
+<forced_lib>cmath</forced_lib>
+<forced_lib>cv2</forced_lib>
+<forced_lib>datetime</forced_lib>
+<forced_lib>email</forced_lib>
+<forced_lib>errno</forced_lib>
+<forced_lib>exceptions</forced_lib>
+<forced_lib>faulthandler</forced_lib>
+<forced_lib>future_builtins</forced_lib>
+<forced_lib>gc</forced_lib>
+<forced_lib>gi</forced_lib>
+<forced_lib>hashlib</forced_lib>
+<forced_lib>imageop</forced_lib>
+<forced_lib>imp</forced_lib>
+<forced_lib>itertools</forced_lib>
+<forced_lib>marshal</forced_lib>
+<forced_lib>math</forced_lib>
+<forced_lib>mmap</forced_lib>
+<forced_lib>mock</forced_lib>
+<forced_lib>msvcrt</forced_lib>
+<forced_lib>multiprocessing</forced_lib>
+<forced_lib>mutagen</forced_lib>
+<forced_lib>nt</forced_lib>
+<forced_lib>numpy</forced_lib>
+<forced_lib>operator</forced_lib>
+<forced_lib>os</forced_lib>
+<forced_lib>os.path</forced_lib>
+<forced_lib>parser</forced_lib>
+<forced_lib>pytest</forced_lib>
+<forced_lib>scipy</forced_lib>
+<forced_lib>signal</forced_lib>
+<forced_lib>six</forced_lib>
+<forced_lib>socket</forced_lib>
+<forced_lib>ssl</forced_lib>
+<forced_lib>strop</forced_lib>
+<forced_lib>sys</forced_lib>
+<forced_lib>thread</forced_lib>
+<forced_lib>time</forced_lib>
+<forced_lib>winreg</forced_lib>
+<forced_lib>wx</forced_lib>
+<forced_lib>wxPython</forced_lib>
+<forced_lib>xxsubtype</forced_lib>
+<forced_lib>zipimport</forced_lib>
+<forced_lib>zlib</forced_lib>
+<string_substitution_var><key>PY</key><value>37</value></string_substitution_var>
+</xml>
+- Ok, file is non-null. Getting info on:C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe
+- Beggining task:Getting libs totalWork:100
+- Setting task name:Mounting executable string...
+- Setting task name:Executing:  C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making pythonpath environment... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making exec... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Reading output...
+- Setting task name:Waiting for process to finish.
+- Setting task name:Process finished.
+- Success getting the info. Result:<xml>
+<name>python</name>
+<version>3.7</version>
+<executable>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe</executable>
+<lib>C:\Users\Administrator\Desktop\ever\py</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\DLLs</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib\site-packages</lib>
+<forced_lib>Image</forced_lib>
+<forced_lib>OpenGL</forced_lib>
+<forced_lib>_abc</forced_lib>
+<forced_lib>_ast</forced_lib>
+<forced_lib>_bisect</forced_lib>
+<forced_lib>_blake2</forced_lib>
+<forced_lib>_bytesio</forced_lib>
+<forced_lib>_codecs</forced_lib>
+<forced_lib>_codecs_cn</forced_lib>
+<forced_lib>_codecs_hk</forced_lib>
+<forced_lib>_codecs_iso2022</forced_lib>
+<forced_lib>_codecs_jp</forced_lib>
+<forced_lib>_codecs_kr</forced_lib>
+<forced_lib>_codecs_tw</forced_lib>
+<forced_lib>_collections</forced_lib>
+<forced_lib>_csv</forced_lib>
+<forced_lib>_datetime</forced_lib>
+<forced_lib>_fileio</forced_lib>
+<forced_lib>_functools</forced_lib>
+<forced_lib>_heapq</forced_lib>
+<forced_lib>_hotshot</forced_lib>
+<forced_lib>_imp</forced_lib>
+<forced_lib>_io</forced_lib>
+<forced_lib>_json</forced_lib>
+<forced_lib>_locale</forced_lib>
+<forced_lib>_lsprof</forced_lib>
+<forced_lib>_md5</forced_lib>
+<forced_lib>_multibytecodec</forced_lib>
+<forced_lib>_opcode</forced_lib>
+<forced_lib>_operator</forced_lib>
+<forced_lib>_pickle</forced_lib>
+<forced_lib>_random</forced_lib>
+<forced_lib>_sha</forced_lib>
+<forced_lib>_sha1</forced_lib>
+<forced_lib>_sha256</forced_lib>
+<forced_lib>_sha3</forced_lib>
+<forced_lib>_sha512</forced_lib>
+<forced_lib>_signal</forced_lib>
+<forced_lib>_sre</forced_lib>
+<forced_lib>_stat</forced_lib>
+<forced_lib>_string</forced_lib>
+<forced_lib>_struct</forced_lib>
+<forced_lib>_subprocess</forced_lib>
+<forced_lib>_symtable</forced_lib>
+<forced_lib>_thread</forced_lib>
+<forced_lib>_tracemalloc</forced_lib>
+<forced_lib>_warnings</forced_lib>
+<forced_lib>_weakref</forced_lib>
+<forced_lib>_winapi</forced_lib>
+<forced_lib>_winreg</forced_lib>
+<forced_lib>array</forced_lib>
+<forced_lib>atexit</forced_lib>
+<forced_lib>audioop</forced_lib>
+<forced_lib>binascii</forced_lib>
+<forced_lib>builtins</forced_lib>
+<forced_lib>cPickle</forced_lib>
+<forced_lib>cStringIO</forced_lib>
+<forced_lib>cmath</forced_lib>
+<forced_lib>cv2</forced_lib>
+<forced_lib>datetime</forced_lib>
+<forced_lib>email</forced_lib>
+<forced_lib>errno</forced_lib>
+<forced_lib>exceptions</forced_lib>
+<forced_lib>faulthandler</forced_lib>
+<forced_lib>future_builtins</forced_lib>
+<forced_lib>gc</forced_lib>
+<forced_lib>gi</forced_lib>
+<forced_lib>hashlib</forced_lib>
+<forced_lib>imageop</forced_lib>
+<forced_lib>imp</forced_lib>
+<forced_lib>itertools</forced_lib>
+<forced_lib>marshal</forced_lib>
+<forced_lib>math</forced_lib>
+<forced_lib>mmap</forced_lib>
+<forced_lib>mock</forced_lib>
+<forced_lib>msvcrt</forced_lib>
+<forced_lib>multiprocessing</forced_lib>
+<forced_lib>mutagen</forced_lib>
+<forced_lib>nt</forced_lib>
+<forced_lib>numpy</forced_lib>
+<forced_lib>operator</forced_lib>
+<forced_lib>os</forced_lib>
+<forced_lib>os.path</forced_lib>
+<forced_lib>parser</forced_lib>
+<forced_lib>pytest</forced_lib>
+<forced_lib>scipy</forced_lib>
+<forced_lib>signal</forced_lib>
+<forced_lib>six</forced_lib>
+<forced_lib>socket</forced_lib>
+<forced_lib>ssl</forced_lib>
+<forced_lib>strop</forced_lib>
+<forced_lib>sys</forced_lib>
+<forced_lib>thread</forced_lib>
+<forced_lib>time</forced_lib>
+<forced_lib>winreg</forced_lib>
+<forced_lib>wx</forced_lib>
+<forced_lib>wxPython</forced_lib>
+<forced_lib>xxsubtype</forced_lib>
+<forced_lib>zipimport</forced_lib>
+<forced_lib>zlib</forced_lib>
+<string_substitution_var><key>PY</key><value>37</value></string_substitution_var>
+</xml>
+
+!STACK 0
+java.lang.RuntimeException: - Ok, file is non-null. Getting info on:C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe
+- Beggining task:Getting libs totalWork:100
+- Setting task name:Mounting executable string...
+- Setting task name:Executing:  C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making pythonpath environment... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making exec... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Reading output...
+- Setting task name:Waiting for process to finish.
+- Setting task name:Process finished.
+- Success getting the info. Result:<xml>
+<name>python</name>
+<version>3.7</version>
+<executable>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe</executable>
+<lib>C:\Users\Administrator\Desktop\ever\py</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\DLLs</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib\site-packages</lib>
+<forced_lib>Image</forced_lib>
+<forced_lib>OpenGL</forced_lib>
+<forced_lib>_abc</forced_lib>
+<forced_lib>_ast</forced_lib>
+<forced_lib>_bisect</forced_lib>
+<forced_lib>_blake2</forced_lib>
+<forced_lib>_bytesio</forced_lib>
+<forced_lib>_codecs</forced_lib>
+<forced_lib>_codecs_cn</forced_lib>
+<forced_lib>_codecs_hk</forced_lib>
+<forced_lib>_codecs_iso2022</forced_lib>
+<forced_lib>_codecs_jp</forced_lib>
+<forced_lib>_codecs_kr</forced_lib>
+<forced_lib>_codecs_tw</forced_lib>
+<forced_lib>_collections</forced_lib>
+<forced_lib>_csv</forced_lib>
+<forced_lib>_datetime</forced_lib>
+<forced_lib>_fileio</forced_lib>
+<forced_lib>_functools</forced_lib>
+<forced_lib>_heapq</forced_lib>
+<forced_lib>_hotshot</forced_lib>
+<forced_lib>_imp</forced_lib>
+<forced_lib>_io</forced_lib>
+<forced_lib>_json</forced_lib>
+<forced_lib>_locale</forced_lib>
+<forced_lib>_lsprof</forced_lib>
+<forced_lib>_md5</forced_lib>
+<forced_lib>_multibytecodec</forced_lib>
+<forced_lib>_opcode</forced_lib>
+<forced_lib>_operator</forced_lib>
+<forced_lib>_pickle</forced_lib>
+<forced_lib>_random</forced_lib>
+<forced_lib>_sha</forced_lib>
+<forced_lib>_sha1</forced_lib>
+<forced_lib>_sha256</forced_lib>
+<forced_lib>_sha3</forced_lib>
+<forced_lib>_sha512</forced_lib>
+<forced_lib>_signal</forced_lib>
+<forced_lib>_sre</forced_lib>
+<forced_lib>_stat</forced_lib>
+<forced_lib>_string</forced_lib>
+<forced_lib>_struct</forced_lib>
+<forced_lib>_subprocess</forced_lib>
+<forced_lib>_symtable</forced_lib>
+<forced_lib>_thread</forced_lib>
+<forced_lib>_tracemalloc</forced_lib>
+<forced_lib>_warnings</forced_lib>
+<forced_lib>_weakref</forced_lib>
+<forced_lib>_winapi</forced_lib>
+<forced_lib>_winreg</forced_lib>
+<forced_lib>array</forced_lib>
+<forced_lib>atexit</forced_lib>
+<forced_lib>audioop</forced_lib>
+<forced_lib>binascii</forced_lib>
+<forced_lib>builtins</forced_lib>
+<forced_lib>cPickle</forced_lib>
+<forced_lib>cStringIO</forced_lib>
+<forced_lib>cmath</forced_lib>
+<forced_lib>cv2</forced_lib>
+<forced_lib>datetime</forced_lib>
+<forced_lib>email</forced_lib>
+<forced_lib>errno</forced_lib>
+<forced_lib>exceptions</forced_lib>
+<forced_lib>faulthandler</forced_lib>
+<forced_lib>future_builtins</forced_lib>
+<forced_lib>gc</forced_lib>
+<forced_lib>gi</forced_lib>
+<forced_lib>hashlib</forced_lib>
+<forced_lib>imageop</forced_lib>
+<forced_lib>imp</forced_lib>
+<forced_lib>itertools</forced_lib>
+<forced_lib>marshal</forced_lib>
+<forced_lib>math</forced_lib>
+<forced_lib>mmap</forced_lib>
+<forced_lib>mock</forced_lib>
+<forced_lib>msvcrt</forced_lib>
+<forced_lib>multiprocessing</forced_lib>
+<forced_lib>mutagen</forced_lib>
+<forced_lib>nt</forced_lib>
+<forced_lib>numpy</forced_lib>
+<forced_lib>operator</forced_lib>
+<forced_lib>os</forced_lib>
+<forced_lib>os.path</forced_lib>
+<forced_lib>parser</forced_lib>
+<forced_lib>pytest</forced_lib>
+<forced_lib>scipy</forced_lib>
+<forced_lib>signal</forced_lib>
+<forced_lib>six</forced_lib>
+<forced_lib>socket</forced_lib>
+<forced_lib>ssl</forced_lib>
+<forced_lib>strop</forced_lib>
+<forced_lib>sys</forced_lib>
+<forced_lib>thread</forced_lib>
+<forced_lib>time</forced_lib>
+<forced_lib>winreg</forced_lib>
+<forced_lib>wx</forced_lib>
+<forced_lib>wxPython</forced_lib>
+<forced_lib>xxsubtype</forced_lib>
+<forced_lib>zipimport</forced_lib>
+<forced_lib>zlib</forced_lib>
+<string_substitution_var><key>PY</key><value>37</value></string_substitution_var>
+</xml>
+- Ok, file is non-null. Getting info on:C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe
+- Beggining task:Getting libs totalWork:100
+- Setting task name:Mounting executable string...
+- Setting task name:Executing:  C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making pythonpath environment... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Making exec... C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe -u C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\interpreterInfo.py
+- Setting task name:Reading output...
+- Setting task name:Waiting for process to finish.
+- Setting task name:Process finished.
+- Success getting the info. Result:<xml>
+<name>python</name>
+<version>3.7</version>
+<executable>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe</executable>
+<lib>C:\Users\Administrator\Desktop\ever\py</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\DLLs</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32</lib>
+<lib>C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib\site-packages</lib>
+<forced_lib>Image</forced_lib>
+<forced_lib>OpenGL</forced_lib>
+<forced_lib>_abc</forced_lib>
+<forced_lib>_ast</forced_lib>
+<forced_lib>_bisect</forced_lib>
+<forced_lib>_blake2</forced_lib>
+<forced_lib>_bytesio</forced_lib>
+<forced_lib>_codecs</forced_lib>
+<forced_lib>_codecs_cn</forced_lib>
+<forced_lib>_codecs_hk</forced_lib>
+<forced_lib>_codecs_iso2022</forced_lib>
+<forced_lib>_codecs_jp</forced_lib>
+<forced_lib>_codecs_kr</forced_lib>
+<forced_lib>_codecs_tw</forced_lib>
+<forced_lib>_collections</forced_lib>
+<forced_lib>_csv</forced_lib>
+<forced_lib>_datetime</forced_lib>
+<forced_lib>_fileio</forced_lib>
+<forced_lib>_functools</forced_lib>
+<forced_lib>_heapq</forced_lib>
+<forced_lib>_hotshot</forced_lib>
+<forced_lib>_imp</forced_lib>
+<forced_lib>_io</forced_lib>
+<forced_lib>_json</forced_lib>
+<forced_lib>_locale</forced_lib>
+<forced_lib>_lsprof</forced_lib>
+<forced_lib>_md5</forced_lib>
+<forced_lib>_multibytecodec</forced_lib>
+<forced_lib>_opcode</forced_lib>
+<forced_lib>_operator</forced_lib>
+<forced_lib>_pickle</forced_lib>
+<forced_lib>_random</forced_lib>
+<forced_lib>_sha</forced_lib>
+<forced_lib>_sha1</forced_lib>
+<forced_lib>_sha256</forced_lib>
+<forced_lib>_sha3</forced_lib>
+<forced_lib>_sha512</forced_lib>
+<forced_lib>_signal</forced_lib>
+<forced_lib>_sre</forced_lib>
+<forced_lib>_stat</forced_lib>
+<forced_lib>_string</forced_lib>
+<forced_lib>_struct</forced_lib>
+<forced_lib>_subprocess</forced_lib>
+<forced_lib>_symtable</forced_lib>
+<forced_lib>_thread</forced_lib>
+<forced_lib>_tracemalloc</forced_lib>
+<forced_lib>_warnings</forced_lib>
+<forced_lib>_weakref</forced_lib>
+<forced_lib>_winapi</forced_lib>
+<forced_lib>_winreg</forced_lib>
+<forced_lib>array</forced_lib>
+<forced_lib>atexit</forced_lib>
+<forced_lib>audioop</forced_lib>
+<forced_lib>binascii</forced_lib>
+<forced_lib>builtins</forced_lib>
+<forced_lib>cPickle</forced_lib>
+<forced_lib>cStringIO</forced_lib>
+<forced_lib>cmath</forced_lib>
+<forced_lib>cv2</forced_lib>
+<forced_lib>datetime</forced_lib>
+<forced_lib>email</forced_lib>
+<forced_lib>errno</forced_lib>
+<forced_lib>exceptions</forced_lib>
+<forced_lib>faulthandler</forced_lib>
+<forced_lib>future_builtins</forced_lib>
+<forced_lib>gc</forced_lib>
+<forced_lib>gi</forced_lib>
+<forced_lib>hashlib</forced_lib>
+<forced_lib>imageop</forced_lib>
+<forced_lib>imp</forced_lib>
+<forced_lib>itertools</forced_lib>
+<forced_lib>marshal</forced_lib>
+<forced_lib>math</forced_lib>
+<forced_lib>mmap</forced_lib>
+<forced_lib>mock</forced_lib>
+<forced_lib>msvcrt</forced_lib>
+<forced_lib>multiprocessing</forced_lib>
+<forced_lib>mutagen</forced_lib>
+<forced_lib>nt</forced_lib>
+<forced_lib>numpy</forced_lib>
+<forced_lib>operator</forced_lib>
+<forced_lib>os</forced_lib>
+<forced_lib>os.path</forced_lib>
+<forced_lib>parser</forced_lib>
+<forced_lib>pytest</forced_lib>
+<forced_lib>scipy</forced_lib>
+<forced_lib>signal</forced_lib>
+<forced_lib>six</forced_lib>
+<forced_lib>socket</forced_lib>
+<forced_lib>ssl</forced_lib>
+<forced_lib>strop</forced_lib>
+<forced_lib>sys</forced_lib>
+<forced_lib>thread</forced_lib>
+<forced_lib>time</forced_lib>
+<forced_lib>winreg</forced_lib>
+<forced_lib>wx</forced_lib>
+<forced_lib>wxPython</forced_lib>
+<forced_lib>xxsubtype</forced_lib>
+<forced_lib>zipimport</forced_lib>
+<forced_lib>zlib</forced_lib>
+<string_substitution_var><key>PY</key><value>37</value></string_substitution_var>
+</xml>
+
+	at org.python.pydev.core.log.Log.logInfo(Log.java:45)
+	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker.applyOperation(AutoConfigMaker.java:191)
+	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker.autoConfigSingleApply(AutoConfigMaker.java:128)
+	at org.python.pydev.ui.PyProjectPythonDetails$ProjectInterpreterAndGrammarConfig$2.widgetSelected(PyProjectPythonDetails.java:326)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1120)
+	at org.eclipse.swt.widgets.Link.WM_LBUTTONUP(Link.java:1035)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4836)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:353)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:155)
+	at org.eclipse.ui.internal.actions.CommandAction.run(CommandAction.java:165)
+	at org.eclipse.ui.actions.NewWizardDropDownAction.run(NewWizardDropDownAction.java:176)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$5(ActionContributionItem.java:436)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4236)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3824)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.python.pydev.shared_core 1 1 2018-11-25 03:05:01.267
+!MESSAGE Restoring info for: C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe
+!STACK 0
+java.lang.RuntimeException: Restoring info for: C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:453)
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:279)
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.setInfos(AbstractInterpreterManager.java:576)
+	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker$1.run(AutoConfigMaker.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.IOException: Expecting: C:\Users\Administrator\Desktop\ever\work\.metadata\.plugins\org.python.pydev\v1_1fd3n4huj164tc1mux9kvkpva\modulesKeys to exist (and be a file).
+	at org.python.pydev.ast.codecompletion.revisited.ModulesManager.loadFromFile(ModulesManager.java:296)
+	at org.python.pydev.ast.codecompletion.revisited.SystemModulesManager.load(SystemModulesManager.java:400)
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:451)
+	... 4 more
+
+!ENTRY org.python.pydev.shared_core 1 1 2018-11-25 03:05:06.047
+!MESSAGE Finished restoring information for: C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe at: C:\Users\Administrator\Desktop\ever\work\.metadata\.plugins\org.python.pydev\v1_1fd3n4huj164tc1mux9kvkpva
+!STACK 0
+java.lang.RuntimeException: Finished restoring information for: C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe at: C:\Users\Administrator\Desktop\ever\work\.metadata\.plugins\org.python.pydev\v1_1fd3n4huj164tc1mux9kvkpva
+	at org.python.pydev.core.log.Log.logInfo(Log.java:45)
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:498)
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:279)
+	at org.python.pydev.ast.interpreter_managers.AbstractInterpreterManager.setInfos(AbstractInterpreterManager.java:576)
+	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker$1.run(AutoConfigMaker.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 4 4 2018-11-25 03:05:07.422
+!MESSAGE Info: Rebuilding internal caches: C:\Users\Administrator\Desktop\ever\work\.metadata\.plugins\com.python.pydev.analysis\python_v1_1fd3n4huj164tc1mux9kvkpva\python.pydevsysteminfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2018-11-25 03:05:25.869
+!MESSAGE Info: Rebuilding internal caches: C:\Users\Administrator\Desktop\ever\work\.metadata\.plugins\org.eclipse.core.resources\.projects\myproject1\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.eclipse.ui.monitoring 4 0 2018-11-25 03:06:04.306
+!MESSAGE UI freeze of 8.0s at 03:05:56.304
+!SUBENTRY 1 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Sample at 03:05:59.247 (+2.943s)
+Thread 'main' tid=1 (BLOCKED)
+!STACK 0
+Stack Trace
+	at org.python.pydev.jython.JythonPlugin.setupJython(JythonPlugin.java:238)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:623)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:614)
+	at org.python.pydev.editor.templates.PyContextType.<init>(PyContextType.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:212)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:167)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:147)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.addContextType(ContributionContextTypeRegistry.java:123)
+	at org.python.pydev.editor.templates.TemplateHelper.getContextTypeRegistry(TemplateHelper.java:63)
+	at org.python.pydev.editor.templates.TemplateHelper.getTemplateStore(TemplateHelper.java:42)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createTemplateOptions(TemplateSelectDialog.java:67)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createDialogArea(TemplateSelectDialog.java:55)
+	at org.eclipse.jface.dialogs.Dialog.createContents(Dialog.java:767)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createContents(TemplateSelectDialog.java:61)
+	at org.eclipse.jface.window.Window.create(Window.java:426)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1095)
+	at org.eclipse.jface.window.Window.open(Window.java:783)
+	at org.python.pydev.ui.wizards.files.PythonModuleWizard$2.run(PythonModuleWizard.java:126)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.python.pydev.plugin.preferences.CheckDefaultPreferencesDialog$1.run(CheckDefaultPreferencesDialog.java:244)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stderr)' tid=89 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stdout)' tid=88 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'PyEdit initializer' tid=86 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.util.zip.Inflater.inflateBytes(Native Method)
+	at java.util.zip.Inflater.inflate(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.ZipInputStream.read(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readUnsignedShort(Unknown Source)
+	at org.python.core.packagecache.PackageManager.checkAccess(PackageManager.java:221)
+	at org.python.core.packagecache.CachedJarsPackageManager.getZipPackages(CachedJarsPackageManager.java:169)
+	at org.python.core.packagecache.CachedJarsPackageManager.addJarToPackages(CachedJarsPackageManager.java:224)
+	at org.python.core.packagecache.SysPackageManager.addJarDir(SysPackageManager.java:64)
+	at org.python.core.packagecache.SysPackageManager.addJarPath(SysPackageManager.java:78)
+	at org.python.core.packagecache.SysPackageManager.<init>(SysPackageManager.java:39)
+	at org.python.core.PySystemState.initPackages(PySystemState.java:1167)
+	at org.python.core.PySystemState.doInitialize(PySystemState.java:1065)
+	at org.python.core.PySystemState.initialize(PySystemState.java:982)
+	at org.python.core.PySystemState.initialize(PySystemState.java:938)
+	at org.python.pydev.jython.JythonPlugin.setupJython(JythonPlugin.java:250)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:623)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:614)
+	at org.python.pydev.editor.scripting.PyEditScripting.createInterpreter(PyEditScripting.java:43)
+	at org.python.pydev.editor.scripting.PyEditScripting.<init>(PyEditScripting.java:38)
+	at org.python.pydev.editor.PyEdit$3.run(PyEdit.java:589)
+	at java.lang.Thread.run(Unknown Source)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-25' tid=81 (WAITING)
+Waiting for: java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6aa3098c
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.take(Unknown Source)
+	at sun.nio.fs.AbstractWatchService.take(Unknown Source)
+	at org.python.pydev.shared_core.path_watch.PathWatch$PollThread.run(PathWatch.java:120)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-23' tid=79 (WAITING)
+Waiting for: org.python.pydev.core.concurrency.Semaphore@6eb3f27f
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.core.concurrency.Semaphore.acquire(Semaphore.java:114)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread.run(RunnableAsJobsPoolThread.java:87)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stderr)' tid=78 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stdout)' tid=77 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-6' tid=56 (WAITING)
+Waiting for: java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e9a04d5
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.take(Unknown Source)
+	at sun.nio.fs.AbstractWatchService.take(Unknown Source)
+	at org.python.pydev.shared_core.path_watch.PathWatch$PollThread.run(PathWatch.java:120)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-10' tid=47 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$5.run(PyEditNotifier.java:147)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-4' tid=39 (TIMED_WAITING)
+!STACK 0
+Stack Trace
+	at java.lang.Thread.sleep(Native Method)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:69)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-4' tid=36 (TIMED_WAITING)
+Waiting for: org.python.pydev.editor.PyEditTitle@26db3c27
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.python.pydev.editor.PyEditTitle.getCurrentEditorReferences(PyEditTitle.java:527)
+	at org.python.pydev.editor.PyEditTitle.doRestoreAllPydevEditorsWithDifferentIcons(PyEditTitle.java:220)
+	at org.python.pydev.editor.PyEditTitle.access$2(PyEditTitle.java:215)
+	at org.python.pydev.editor.PyEditTitle$2.run(PyEditTitle.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'EventAdmin Async Event Dispatcher Thread' tid=35 (WAITING)
+Waiting for: org.eclipse.swt.widgets.RunnableLock@6e7e963b
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:246)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:53)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Java indexing' tid=33 (WAITING)
+Waiting for: org.eclipse.jdt.internal.core.search.indexing.IndexManager@604c8b8d
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:371)
+	at java.lang.Thread.run(Unknown Source)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-3' tid=32 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$1.run(PyEditNotifier.java:48)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-2' tid=31 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$6.run(PyEditNotifier.java:176)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'EMF Reference Cleaner' tid=24 (WAITING)
+Waiting for: java.lang.ref.ReferenceQueue$Lock@237f5058
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at org.eclipse.emf.common.util.CommonUtil$1ReferenceClearingQueuePollingThread.run(CommonUtil.java:70)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-JM' tid=23 (WAITING)
+Waiting for: java.util.ArrayList@392ad542
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.InternalWorker.run(InternalWorker.java:59)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'org.eclipse.jface.text.reconciler.MonoReconciler' tid=90 (TIMED_WAITING)
+Waiting for: org.eclipse.jface.text.reconciler.DirtyRegionQueue@618f092e
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:180)
+!SUBENTRY 1 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Sample at 03:06:01.856 (+2.609s)
+Thread 'main' tid=1 (BLOCKED)
+!STACK 0
+Stack Trace
+	at org.python.pydev.jython.JythonPlugin.setupJython(JythonPlugin.java:238)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:623)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:614)
+	at org.python.pydev.editor.templates.PyContextType.<init>(PyContextType.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:212)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:167)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:147)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.addContextType(ContributionContextTypeRegistry.java:123)
+	at org.python.pydev.editor.templates.TemplateHelper.getContextTypeRegistry(TemplateHelper.java:63)
+	at org.python.pydev.editor.templates.TemplateHelper.getTemplateStore(TemplateHelper.java:42)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createTemplateOptions(TemplateSelectDialog.java:67)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createDialogArea(TemplateSelectDialog.java:55)
+	at org.eclipse.jface.dialogs.Dialog.createContents(Dialog.java:767)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createContents(TemplateSelectDialog.java:61)
+	at org.eclipse.jface.window.Window.create(Window.java:426)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1095)
+	at org.eclipse.jface.window.Window.open(Window.java:783)
+	at org.python.pydev.ui.wizards.files.PythonModuleWizard$2.run(PythonModuleWizard.java:126)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.python.pydev.plugin.preferences.CheckDefaultPreferencesDialog$1.run(CheckDefaultPreferencesDialog.java:244)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stderr)' tid=89 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stdout)' tid=88 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'PyEdit initializer' tid=86 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at org.python.core.PyComplex$PyExposer.<init>(Unknown Source)
+	at org.python.core.PyComplex.<clinit>(PyComplex.java)
+	at org.python.core.__builtin__.fillWithBuiltins(__builtin__.java:273)
+	at org.python.core.PySystemState$DefaultBuiltinsHolder.<clinit>(PySystemState.java:294)
+	at org.python.core.PySystemState.getDefaultBuiltins(PySystemState.java:304)
+	at org.python.core.PySystemState.<init>(PySystemState.java:226)
+	at org.python.core.PySystemState.doInitialize(PySystemState.java:1071)
+	at org.python.core.PySystemState.initialize(PySystemState.java:982)
+	at org.python.core.PySystemState.initialize(PySystemState.java:938)
+	at org.python.pydev.jython.JythonPlugin.setupJython(JythonPlugin.java:250)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:623)
+	at org.python.pydev.jython.JythonPlugin.newPythonInterpreter(JythonPlugin.java:614)
+	at org.python.pydev.editor.scripting.PyEditScripting.createInterpreter(PyEditScripting.java:43)
+	at org.python.pydev.editor.scripting.PyEditScripting.<init>(PyEditScripting.java:38)
+	at org.python.pydev.editor.PyEdit$3.run(PyEdit.java:589)
+	at java.lang.Thread.run(Unknown Source)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-25' tid=81 (WAITING)
+Waiting for: java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6aa3098c
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.take(Unknown Source)
+	at sun.nio.fs.AbstractWatchService.take(Unknown Source)
+	at org.python.pydev.shared_core.path_watch.PathWatch$PollThread.run(PathWatch.java:120)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-23' tid=79 (WAITING)
+Waiting for: org.python.pydev.core.concurrency.Semaphore@6eb3f27f
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.core.concurrency.Semaphore.acquire(Semaphore.java:114)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread.run(RunnableAsJobsPoolThread.java:87)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stderr)' tid=78 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stdout)' tid=77 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-6' tid=56 (WAITING)
+Waiting for: java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e9a04d5
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.take(Unknown Source)
+	at sun.nio.fs.AbstractWatchService.take(Unknown Source)
+	at org.python.pydev.shared_core.path_watch.PathWatch$PollThread.run(PathWatch.java:120)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-10' tid=47 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$5.run(PyEditNotifier.java:147)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-4' tid=39 (TIMED_WAITING)
+!STACK 0
+Stack Trace
+	at java.lang.Thread.sleep(Native Method)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:69)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-4' tid=36 (TIMED_WAITING)
+Waiting for: org.python.pydev.editor.PyEditTitle@26db3c27
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.python.pydev.editor.PyEditTitle.getCurrentEditorReferences(PyEditTitle.java:527)
+	at org.python.pydev.editor.PyEditTitle.doRestoreAllPydevEditorsWithDifferentIcons(PyEditTitle.java:220)
+	at org.python.pydev.editor.PyEditTitle.access$2(PyEditTitle.java:215)
+	at org.python.pydev.editor.PyEditTitle$2.run(PyEditTitle.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'EventAdmin Async Event Dispatcher Thread' tid=35 (WAITING)
+Waiting for: org.eclipse.swt.widgets.RunnableLock@6e7e963b
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:246)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:53)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Java indexing' tid=33 (WAITING)
+Waiting for: org.eclipse.jdt.internal.core.search.indexing.IndexManager@604c8b8d
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:371)
+	at java.lang.Thread.run(Unknown Source)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-3' tid=32 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$1.run(PyEditNotifier.java:48)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-2' tid=31 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$6.run(PyEditNotifier.java:176)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'EMF Reference Cleaner' tid=24 (WAITING)
+Waiting for: java.lang.ref.ReferenceQueue$Lock@237f5058
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at org.eclipse.emf.common.util.CommonUtil$1ReferenceClearingQueuePollingThread.run(CommonUtil.java:70)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-JM' tid=23 (WAITING)
+Waiting for: java.util.ArrayList@392ad542
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.InternalWorker.run(InternalWorker.java:59)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'org.eclipse.jface.text.reconciler.MonoReconciler' tid=90 (TIMED_WAITING)
+Waiting for: org.eclipse.jface.text.reconciler.DirtyRegionQueue@618f092e
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:180)
+!SUBENTRY 1 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Sample at 03:06:03.247 (+1.391s)
+Thread 'main' tid=1 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.lang.Object.notifyAll(Native Method)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.unlockClassName(ModuleClassLoader.java:432)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.defineClass(ModuleClassLoader.java:278)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.defineClass(ClasspathManager.java:632)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:586)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:538)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:525)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:325)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:423)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:372)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:364)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:161)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.python.antlr.ast.TryFinally.<clinit>(TryFinally.java)
+	at org.python.antlr.GrammarActions.makeTryFinally(GrammarActions.java:288)
+	at org.python.antlr.PythonParser.try_stmt(PythonParser.java:7110)
+	at org.python.antlr.PythonParser.compound_stmt(PythonParser.java:6190)
+	at org.python.antlr.PythonParser.stmt(PythonParser.java:2457)
+	at org.python.antlr.PythonParser.file_input(PythonParser.java:618)
+	at org.python.antlr.BaseParser.parseModule(BaseParser.java:78)
+	at org.python.core.CompileMode$3.dispatch(CompileMode.java:22)
+	at org.python.core.ParserFacade.parse(ParserFacade.java:152)
+	at org.python.core.ParserFacade.parse(ParserFacade.java:197)
+	at org.python.core.Py.compile_flags(Py.java:1857)
+	at org.python.util.PythonInterpreter.exec(PythonInterpreter.java:206)
+	at org.python.pydev.jython.JythonPlugin.exec(JythonPlugin.java:528)
+	at org.python.pydev.jython.JythonPlugin.execAll(JythonPlugin.java:391)
+	at org.python.pydev.jython.JythonPlugin.execAll(JythonPlugin.java:360)
+	at org.python.pydev.editor.templates.PyContextType.addGlobalResolvers(PyContextType.java:67)
+	at org.python.pydev.editor.templates.PyContextType.<init>(PyContextType.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:212)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:167)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.createContextType(ContributionContextTypeRegistry.java:147)
+	at org.eclipse.ui.editors.text.templates.ContributionContextTypeRegistry.addContextType(ContributionContextTypeRegistry.java:123)
+	at org.python.pydev.editor.templates.TemplateHelper.getContextTypeRegistry(TemplateHelper.java:63)
+	at org.python.pydev.editor.templates.TemplateHelper.getTemplateStore(TemplateHelper.java:42)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createTemplateOptions(TemplateSelectDialog.java:67)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createDialogArea(TemplateSelectDialog.java:55)
+	at org.eclipse.jface.dialogs.Dialog.createContents(Dialog.java:767)
+	at org.python.pydev.ui.wizards.files.TemplateSelectDialog.createContents(TemplateSelectDialog.java:61)
+	at org.eclipse.jface.window.Window.create(Window.java:426)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1095)
+	at org.eclipse.jface.window.Window.open(Window.java:783)
+	at org.python.pydev.ui.wizards.files.PythonModuleWizard$2.run(PythonModuleWizard.java:126)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.python.pydev.plugin.preferences.CheckDefaultPreferencesDialog$1.run(CheckDefaultPreferencesDialog.java:244)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stderr)' tid=89 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stdout)' tid=88 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'PyEdit initializer' tid=86 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at org.python.compiler.PyCodeConstant.<init>(Module.java:299)
+	at org.python.compiler.Module.codeConstant(Module.java:490)
+	at org.python.compiler.Module.codeConstant(Module.java:482)
+	at org.python.compiler.Module.compile(Module.java:656)
+	at org.python.compiler.Module.compile(Module.java:640)
+	at org.python.compiler.LegacyCompiler$LazyLegacyBundle.ostream(LegacyCompiler.java:64)
+	at org.python.compiler.LegacyCompiler$LazyLegacyBundle.saveCode(LegacyCompiler.java:58)
+	at org.python.core.CompilerFacade.compile(CompilerFacade.java:33)
+	at org.python.core.Py.compile_flags(Py.java:1823)
+	at org.python.core.Py.compile_flags(Py.java:1828)
+	at org.python.core.Py.compile_flags(Py.java:1858)
+	at org.python.util.PythonInterpreter.exec(PythonInterpreter.java:206)
+	at org.python.pydev.editor.scripting.PyEditScripting.createInterpreter(PyEditScripting.java:45)
+	at org.python.pydev.editor.scripting.PyEditScripting.<init>(PyEditScripting.java:38)
+	at org.python.pydev.editor.PyEdit$3.run(PyEdit.java:589)
+	at java.lang.Thread.run(Unknown Source)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-25' tid=81 (WAITING)
+Waiting for: java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6aa3098c
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.take(Unknown Source)
+	at sun.nio.fs.AbstractWatchService.take(Unknown Source)
+	at org.python.pydev.shared_core.path_watch.PathWatch$PollThread.run(PathWatch.java:120)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-23' tid=79 (WAITING)
+Waiting for: org.python.pydev.core.concurrency.Semaphore@6eb3f27f
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.core.concurrency.Semaphore.acquire(Semaphore.java:114)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread.run(RunnableAsJobsPoolThread.java:87)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stderr)' tid=78 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Shell reader (stdout)' tid=77 (RUNNABLE)
+!STACK 0
+Stack Trace
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.Reader.read(Unknown Source)
+	at org.python.pydev.shared_core.io.ThreadStreamReader.run(ThreadStreamReader.java:102)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-6' tid=56 (WAITING)
+Waiting for: java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e9a04d5
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(Unknown Source)
+	at java.util.concurrent.LinkedBlockingDeque.take(Unknown Source)
+	at sun.nio.fs.AbstractWatchService.take(Unknown Source)
+	at org.python.pydev.shared_core.path_watch.PathWatch$PollThread.run(PathWatch.java:120)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-10' tid=47 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$5.run(PyEditNotifier.java:147)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Thread-4' tid=39 (TIMED_WAITING)
+!STACK 0
+Stack Trace
+	at java.lang.Thread.sleep(Native Method)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:69)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'Worker-4' tid=36 (TIMED_WAITING)
+Waiting for: org.python.pydev.editor.PyEditTitle@26db3c27
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.python.pydev.editor.PyEditTitle.getCurrentEditorReferences(PyEditTitle.java:527)
+	at org.python.pydev.editor.PyEditTitle.doRestoreAllPydevEditorsWithDifferentIcons(PyEditTitle.java:220)
+	at org.python.pydev.editor.PyEditTitle.access$2(PyEditTitle.java:215)
+	at org.python.pydev.editor.PyEditTitle$2.run(PyEditTitle.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.322
+!MESSAGE Thread 'EventAdmin Async Event Dispatcher Thread' tid=35 (WAITING)
+Waiting for: org.eclipse.swt.widgets.RunnableLock@6e7e963b
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:246)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:53)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.338
+!MESSAGE Thread 'Java indexing' tid=33 (WAITING)
+Waiting for: org.eclipse.jdt.internal.core.search.indexing.IndexManager@604c8b8d
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:371)
+	at java.lang.Thread.run(Unknown Source)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.338
+!MESSAGE Thread 'Worker-3' tid=32 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$1.run(PyEditNotifier.java:48)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.338
+!MESSAGE Thread 'Worker-2' tid=31 (WAITING)
+Waiting for: java.lang.Object@7d083840
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Unknown Source)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:160)
+	at org.python.pydev.shared_ui.editor.BaseEditor.getAllListeners(BaseEditor.java:151)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$6.run(PyEditNotifier.java:176)
+	at org.python.pydev.shared_ui.editor.PyEditNotifier$3.run(PyEditNotifier.java:100)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.338
+!MESSAGE Thread 'EMF Reference Cleaner' tid=24 (WAITING)
+Waiting for: java.lang.ref.ReferenceQueue$Lock@237f5058
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at org.eclipse.emf.common.util.CommonUtil$1ReferenceClearingQueuePollingThread.run(CommonUtil.java:70)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.338
+!MESSAGE Thread 'Worker-JM' tid=23 (WAITING)
+Waiting for: java.util.ArrayList@392ad542
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.InternalWorker.run(InternalWorker.java:59)
+!SUBENTRY 2 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:04.338
+!MESSAGE Thread 'org.eclipse.jface.text.reconciler.MonoReconciler' tid=90 (TIMED_WAITING)
+Waiting for: org.eclipse.jface.text.reconciler.DirtyRegionQueue@618f092e
+!STACK 0
+Stack Trace
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:180)
+
+!ENTRY org.eclipse.ui.monitoring 2 0 2018-11-25 03:06:06.499
+!MESSAGE UI freeze of 0.61s at 03:06:05.889
+!SUBENTRY 1 org.eclipse.ui.monitoring 1 0 2018-11-25 03:06:06.499
+!MESSAGE Sample at 03:06:06.249 (+0.360s)
+Thread 'main' tid=1 (WAITING)
+!STACK 0
+Stack Trace
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock$NonfairSync.lock(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock.lock(Unknown Source)
+	at org.python.core.imp.importName(imp.java:944)
+	at org.python.core.ImportFunction.__call__(__builtin__.java:1300)
+	at org.python.core.PyObject.__call__(PyObject.java:373)
+	at org.python.core.__builtin__.__import__(__builtin__.java:1253)
+	at org.python.core.imp.importOne(imp.java:965)
+	at org.python.pycode._pyx3.f$0(C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.jython_7.0.3.201811082356\jysrc\pytemplate_defaults.py:281)
+	at org.python.pycode._pyx3.call_function(C:\Users\Administrator\Downloads\Compressed\eclipse-committers-neon-3-win32-x86_64\eclipse\plugins\org.python.pydev.jython_7.0.3.201811082356\jysrc\pytemplate_defaults.py)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyCode.call(PyCode.java:18)
+	at org.python.core.Py.runCode(Py.java:1312)
+	at org.python.core.Py.exec(Py.java:1356)
+	at org.python.pycode._pyx64.f$0(<string>:1)
+	at org.python.pycode._pyx64.call_function(<string>)
+	at org.python.core.PyTableCode.call(PyTableCode.java:165)
+	at org.python.core.PyCode.call(PyCode.java:18)
+	at org.python.core.Py.runCode(Py.java:1312)
+	at org.python.core.Py.exec(Py.java:1356)
+	at org.python.util.PythonInterpreter.exec(PythonInterpreter.java:206)
+	at org.python.pydev.jython.JythonPlugin.exec(JythonPlugin.java:540)
+	at org.python.pydev.jython.JythonPlugin.execAll(JythonPlugin.java:391)
+	at org.python.pydev.jython.JythonPlugin.execAll(JythonPlugin.java:360)
+	at org.python.pydev.editor.templates.PyContextType.addGlobalResolvers(PyContextType.java:67)
+	at org.python.pydev.editor.templates.PyContextType.<init>(PyContextType.java:47)
+	at org.python.pydev.ui.wizards.files.PythonModuleWizard$2.run(PythonModuleWizard.java:135)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.python.pydev.plugin.preferences.CheckDefaultPreferencesDialog$1.run(CheckDefaultPreferencesDialog.java:244)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
