@@ -1,0 +1,12 @@
+from main import readf, writef
+verb,noun,ques=readf("verb"),readf("noun"),readf("ques")
+print(verb,noun,ques)
+class check:
+    def __init__(self,inp):
+        self.inp=inp
+    
+    def check:
+        a=inp.split()
+        
+        
+    

@@ -1,0 +1,16 @@
+from main import readf, writef
+verb,noun,ques=readf("verb"),readf("noun"),readf("ques")
+#print(verb,noun,ques)
+class check:
+    def __init__(self,inp):
+        self.inp=inp
+    
+    def cal(self):
+        a=self.inp.split()
+        for b in a:
+            print (b)
+            
+
+check("if 1 box contains 15 apples").cal()     
+        
+    

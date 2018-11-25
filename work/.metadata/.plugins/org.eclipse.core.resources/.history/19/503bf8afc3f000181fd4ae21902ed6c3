@@ -1,0 +1,2 @@
+from main import readf, writef
+writef("shiva")

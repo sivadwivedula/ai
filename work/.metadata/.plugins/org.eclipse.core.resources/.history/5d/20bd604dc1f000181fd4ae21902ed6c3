@@ -1,0 +1,3 @@
+from main import readf, writef
+print (readf('verb'))
+print (writef("","shiva"))

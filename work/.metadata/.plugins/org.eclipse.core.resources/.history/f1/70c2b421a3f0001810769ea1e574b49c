@@ -1,0 +1,2 @@
+from main import readf
+print(readf('noun')
